@@ -1,0 +1,21 @@
+name: numbers_to_letters
+description: Numbers to letters converter, for multiple languages.
+version: 1.0.0
+repository: https://github.com/Wilfried-Tech/numbers_to_letters
+homepage: https://github.com/Wilfried-Tech/numbers_to_letters
+topics: 
+  - numbers
+  - letters
+  - tools
+  - converter
+
+
+environment:
+  sdk: ^3.0.0
+
+dependencies:
+  meta: ^1.15.0
+
+dev_dependencies:
+  lints: ^4.0.0
+  test: ^1.24.0
